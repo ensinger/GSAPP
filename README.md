@@ -52,7 +52,9 @@ An Approach to Conceive Design Solutions in the Context of Disability and Aging
 
 Design Care is about compassionate, empathetic, and user-centered design for one, user initiated practice, emphasizing the independence and ideas of individuals with disabilities through personalized solutions. It stands at the intersection of Homecare, Healthcare, Disability Care, and Design Thinking to craft solutions that are resonant with the individuals' lived experiences, aspirations, and the daily realities of aging and disability. 
 
-[View Project](https://github.com/ensinger/GSAPP/blob/main/Elizabeth_Singer_Difference_And_Design_Final_PDF.pdf)
+[View Project Video](https://youtu.be/ItxWQ-ywdc8)
+
+[View Project PDF](https://github.com/ensinger/GSAPP/blob/main/Elizabeth_Singer_Difference_And_Design_Final_PDF.pdf)
 
 **Note to self: Still need to add video here**
 
