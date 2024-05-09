@@ -81,7 +81,7 @@ Kashrut Dietary Laws as Catalysts for Dialogue in a Pluralistic Jewish Food Co-o
 **Note to self: Still need to add PDF here**
 
 #### Losing Ground: Erosion is Threatening Long Island's Historic Communities
-Addressing the persistent issue of shoreline degradation in Long Island
+Addressing the Persistent Issue of Shoreline Degradation in Long Island
 - **Date**: April 2024
 - **Course**: Sustainability and Preservation
 - **Professor**: Prof. Erica Avrami
