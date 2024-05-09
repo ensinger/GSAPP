@@ -71,14 +71,14 @@ Mapping NYPD Confirmed Hate Crimes and Examining the Social Dynamics and Biases 
 During the Covid-19 pandemic, the United States witnessed a distressing rise in hate crimes, intensified by inflammatory rhetoric and high-profile incidents of police brutality. This project focuses on visualizing the pattern of confirmed hate crimes in New York City from 2019 to 2023. Using data from the NYPD, the analysis reveals geographical distribution and victim demographics of these crimes. I integrated the NYPD data with the policy precinct shapefile in Grasshopper, where I experimented with various visualization techniques including extruding the shapefile based on certain attributes and applying gradients to others, thereby providing a multidimensional view of the data. Key findings include a 15,000% spike in anti-Asian hate crimes from 2019 to 2021, attributed largely to Covid-19 related racism. Anti-Semitic incidents were most prevalent, accounting for about 43.7% of all cases, while anti-Black hate crimes showed a notable concentration in Staten Island. The project discusses the likely underreporting of incidents due to victims' reluctance to involve law enforcement, particularly among marginalized communities with historical mistrust of police.
 
 [View Project](https://gsapp-cdp.github.io/colloquium-1-2023/work/elizabeth-singer/my_maps.html)
-
+Dynamic User-centric Control, Movement, Behavior, and Activities
 #### Spatial UX
 - **Date**: December 2023
 - **Course**: Spatial UX
 - **Professor**: Prof. Violet Whitney
 - **Partners**: Di Zhu, Chuxi Xiong, Pavitra Nayak
 
--> Note to self: Add Description Here
+The goal of Spatial UX was giving users the ability to shape their spaces according to their needs. We used real-time object detection and neural network analysis to track user movement in videos they filmed of themselves making breakfast in their kitchens and suggested changes to the room design such as equipment placement and room sizes. The goal was to balance efficiency and functionality. After the users received the suggestions, we collected feedback from the users and imagined an exciting future in spatial design.
 
 [View Project](https://www.youtube.com/watch?v=P_qIeYkLioI&feature=youtu.be&themeRefresh=1)
 
