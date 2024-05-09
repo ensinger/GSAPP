@@ -24,6 +24,9 @@ The project is a user-initiated, design-for-one approach that contrasts with one
 **Note to self: Still need to add Materials here**
 
 #### Gene and Jude's Kitchen
+
+![Gene & Jude's Kitchen](https://your-image-url-here.jpg "Gene & Jude's Kitchen")
+
 - **Date**: February 2024
 - **Course**: Feasting and Fasting
 - **Professor**: Prof. Ateya Khorakiwala
