@@ -56,8 +56,6 @@ Design Care is about compassionate, empathetic, and user-centered design for one
 
 [View Project PDF](https://github.com/ensinger/GSAPP/blob/main/Elizabeth_Singer_Difference_And_Design_Final_PDF.pdf)
 
-**Note to self: Still need to add video here**
-
 ### 5 #Disabilityhack #disabilitytiktok #Disabilitylifehack #accessibility
 - **Date**: October 2023
 - **Course**: Explore, Explain, Propose
