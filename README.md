@@ -104,9 +104,7 @@ Negotiating Religious and Dietary Practice and Identity and Kashrut Dietary Laws
 - **Course**: Feasting and Fasting
 - **Professor**: Prof. Ateya Khorakiwala
 
-<img src="https://github.com/ensinger/GSAPP/blob/main/IMG_7463.jpg" alt="bayit1" width="30%">
-<img src="https://github.com/ensinger/GSAPP/blob/main/IMG_7370.jpg" alt="bayit3" width="30%">
-<img src="https://github.com/ensinger/GSAPP/blob/main/IMG_7793.jpg" alt="bayit4" width="30%">
+<img src="https://github.com/ensinger/GSAPP/blob/main/IMG_7463.jpg" alt="bayit1" width="30%"><img src="https://github.com/ensinger/GSAPP/blob/main/IMG_7370.jpg" alt="bayit3" width="30%"><img src="https://github.com/ensinger/GSAPP/blob/main/IMG_7793.jpg" alt="bayit4" width="30%">
 
 
 
