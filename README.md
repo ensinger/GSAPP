@@ -41,10 +41,14 @@ The Speculative Restoration Design Tool is designed to speculate and reconstruct
 [View Project](https://medium.com/design-intelligence-course/speculative-restoration-design-tool-6b7e01fc3d2e)
 
 ### 4 Design Care
+
+An Approach to Conceive Design Solutions in the Context of Disability and Aging
+
 - **Date**: December 2023
 - **Course**: Explore, Explain, Propose
 - **Professors**: Prof. Laura Kurgan, Prof. Snoweria Zhang
-- **Description**: *Add description here.*
+
+Design Care is about compassionate, empathetic, and user-centered design for one, user initiated practice, emphasizing the independence and ideas of individuals with disabilities through personalized solutions. It stands at the intersection of Homecare, Healthcare, Disability Care, and Design Thinking to craft solutions that are resonant with the individuals' lived experiences, aspirations, and the daily realities of aging and disability. 
 
 **Note to self: Still need to add video and pdf here**
 
