@@ -69,7 +69,6 @@ The Speculative Restoration Design Tool is designed to speculate and reconstruct
 [View Project](https://gsapp-cdp.github.io/colloquium-1-2023/work/elizabeth-singer/my_maps.html)
 
 #### Spatial UX
--> Add PDF Here
 - **Date**: December 2023
 - **Course**: Spatial UX
 - **Professor**: Prof. Violet Whitney
