@@ -66,7 +66,7 @@ Design Care is about compassionate, empathetic, and user-centered design for one
 - **Course**: Explore, Explain, Propose
 - **Professors**: Prof. Laura Kurgan, Prof. Snoweria Zhang
 - **Description**: *Add description here.*
-
+[View Project Pdf](https://github.com/ensinger/GSAPP/blob/main/Singer_Elizabeth_es4160_Counterstory_Midterm_PDF.pdf)
 **Note to self: Still need to add video and pdf here**
 
 ### 6 Visualizing Confirmed Hate Crime Incidents in NYC During the Covid-19 Pandemic
