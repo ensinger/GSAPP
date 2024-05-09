@@ -73,9 +73,9 @@ During the Covid-19 pandemic, the United States witnessed a distressing rise in 
 
 ### 7 Spatial UX, Motion Analysis, and Design
 
-<img src="https://github.com/ensinger/GSAPP/blob/b622bb82933a1c9102f2087cd1d05f21de70cf28/SPUX1.jpg" alt="image 1" width="30%">
-<img src="https://github.com/ensinger/GSAPP/blob/b622bb82933a1c9102f2087cd1d05f21de70cf28/SPUX2.jpg" alt="image 2" width="30%">
-<img src="https://github.com/ensinger/GSAPP/blob/b622bb82933a1c9102f2087cd1d05f21de70cf28/SPUX3.jpg" alt="image 3" width="30%">
+<img src="https://github.com/ensinger/GSAPP/SPUX1.jpg" alt="image 1" width="30%">
+<img src="https://github.com/ensinger/GSAPP/SPUX2.jpg" alt="image 2" width="30%">
+<img src="https://github.com/ensinger/GSAPP/SPUX3.jpg" alt="image 3" width="30%">
 
 Dynamic User-centric Control, Movement, Behavior, and Activities
 
