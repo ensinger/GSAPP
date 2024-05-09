@@ -25,7 +25,7 @@ The project is a user-initiated, design-for-one approach that contrasts with one
 
 #### Gene and Jude's Kitchen
 
-![Gene & Jude's Kitchen](https://github.com/ensinger/GSAPP/blob/c0479f898230bb2c2a54b27cbaecc4e4586b7783/gene%20and%20judes%20kitchen.jpg?raw=true "Gene & Jude's Chicago"
+![Gene & Jude's Kitchen](https://github.com/ensinger/GSAPP/blob/c0479f898230bb2c2a54b27cbaecc4e4586b7783/gene%20and%20judes%20kitchen.jpg?raw=true "Gene & Jude's Chicago-style 'depression dog'")
 
 - **Date**: February 2024
 - **Course**: Feasting and Fasting
