@@ -83,7 +83,7 @@ During the Covid-19 pandemic, the United States witnessed a distressing rise in 
 
 ### 7 Spatial UX, Motion Analysis, and Design
 
-<img src="https://github.com/ensinger/GSAPP/blob/main/SPUX1.jpg" alt="image 1" width="30%"><img src="https://github.com/ensinger/GSAPP/blob/main/SPUX2.jpg" alt="image 2" width="30%"><img src="https://github.com/ensinger/GSAPP/blob/main/SPUX3.jpg" alt="image 3" width="30%">
+<img src="https://github.com/ensinger/GSAPP/blob/main/SPUX1.jpg" alt="image 1" width="30%"> <img src="https://github.com/ensinger/GSAPP/blob/main/SPUX2.jpg" alt="image 2" width="30%"> <img src="https://github.com/ensinger/GSAPP/blob/main/SPUX3.jpg" alt="image 3" width="30%">
 
 Dynamic User-centric Control, Movement, Behavior, and Activities
 
@@ -104,7 +104,7 @@ Negotiating Religious and Dietary Practice and Identity and Kashrut Dietary Laws
 - **Course**: Feasting and Fasting
 - **Professor**: Prof. Ateya Khorakiwala
 
-<img src="https://github.com/ensinger/GSAPP/blob/main/IMG_7463.jpg" alt="bayit1" width="30%"><img src="https://github.com/ensinger/GSAPP/blob/main/IMG_7370.jpg" alt="bayit3" width="30%"><img src="https://github.com/ensinger/GSAPP/blob/main/IMG_7793.jpg" alt="bayit4" width="30%">
+<img src="https://github.com/ensinger/GSAPP/blob/main/IMG_7463.jpg" alt="bayit1" width="30%"> <img src="https://github.com/ensinger/GSAPP/blob/main/IMG_7370.jpg" alt="bayit3" width="30%"> <img src="https://github.com/ensinger/GSAPP/blob/main/IMG_7793.jpg" alt="bayit4" width="30%">
 
 
 
