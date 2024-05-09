@@ -55,6 +55,7 @@ The Speculative Restoration Design Tool is designed to speculate and reconstruct
 - **Description**: *Add description here.*
 
 [View Project](https://github.com/ensinger/GSAPP/blob/main/Elizabeth_Singer_Difference_And_Design_Final_PDF.pdf)
+[View Project movie](https://github.com/ensinger/GSAPP/blob/main/elizabeth_singer_final_video_difference_and_design.mov)
 
 **Note to self: Still need to add video and pdf here**
 
