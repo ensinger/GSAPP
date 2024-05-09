@@ -72,7 +72,7 @@ The project showcases a user-initiated, design-for-one approach that contrasts w
 - **Description**: *Add description here.*
 - **Link**: [View Project](https://www.youtube.com/watch?v=P_qIeYkLioI&feature=youtu.be&themeRefresh=1)
 
-#### Pluralism at the Table: Negotiating Religious Practice and Identity in a Pluralistic Jewish Food Co-op
+#### Pluralism at the Table: Negotiating Religious and Dietary Practice and Identity in a Pluralistic Jewish Food Co-op
 Kashrut Dietary Laws as Catalysts for Dialogue in a Pluralistic Jewish Food Co-op
 - **Date**: April 2024
 - **Course**: Feasting and Fasting
