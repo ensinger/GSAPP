@@ -22,7 +22,7 @@ Following my grandmother's passing, the project evolved while maintaining its ob
 
 The project showcases a user-initiated, design-for-one approach that contrasts with one-size-fits-all solutions. It emphasizes the importance of personalization and the innovative potential within the disability community, serving as a continuous testbed for new ideas. By embedding personalized technology into everyday environments, the project enhances independence.
 
-- **Materials**: *Add videos and other materials here.*
+**Note to self: Still need to add Materials here**
 
 #### Speculative Restoration Design Tool
 - **Date**: December 2024
@@ -30,28 +30,31 @@ The project showcases a user-initiated, design-for-one approach that contrasts w
 - **Professor**: Danil Nagy
 - **Partner**: Jon Marcos
 - **Description**: A speculative tool aimed at the restoration of architectural elements using advanced computational techniques.
-- **Materials**: [Project Link](https://medium.com/design-intelligence-course/speculative-restoration-design-tool-6b7e01fc3d2e)
+- **Materials**: [View Project](https://medium.com/design-intelligence-course/speculative-restoration-design-tool-6b7e01fc3d2e)
 
 #### #Disabilityhack #disabilitytiktok #Disabilitylifehack #accessibility
 - **Date**: October 2023
 - **Course**: Explore, Explain, Propose
 - **Professors**: Laura Kurgan, Snoweria Zhang
 - **Description**: *Add description here.*
-- **Materials**: *Add video and PDF here.*
+
+**Note to self: Still need to add video and pdf here**
 
 #### Design Care
 - **Date**: December 2023
 - **Course**: Explore, Explain, Propose
 - **Professors**: Laura Kurgan, Snoweria Zhang
 - **Description**: *Add description here.*
-- **Materials**: *Add video and PDF here.*
+
+**Note to self: Still need to add video and pdf here**
 
 #### Gene and Jude's Kitchen
 - **Date**: February 2024
 - **Course**: Feasting + Fasting
 - **Professor**: Ateya Khorakiwala
 - **Description**: *Add description here.*
-- **Materials**: *Add image and text description here.*
+  
+**Note to self: Still need to add image and description here**
 
 #### Visualizing Confirmed Hate Crime Incidents in NYC During the Covid-19 Pandemic
 - **Date**: August 2023
@@ -66,17 +69,19 @@ The project showcases a user-initiated, design-for-one approach that contrasts w
 - **Professor**: Violet Whitney
 - **Group Members**: Di Zhu, Chuxi Xiong, Pavitra Nayak
 - **Description**: *Add description here.*
-- **Materials**: [YouTube Link](https://www.youtube.com/watch?v=P_qIeYkLioI&feature=youtu.be&themeRefresh=1)
+- **Materials**: [View Project](https://www.youtube.com/watch?v=P_qIeYkLioI&feature=youtu.be&themeRefresh=1)
 
 #### Pluralism at the Table: Dietary Practice and Identity Negotiation in a Jewish Food Co-op
 - **Date**: April 2024
 - **Course**: Feasting + Fasting
 - **Professor**: Ateya Khorakiwala
-- **Materials**: *Add PDF here.*
+
+**Note to self: Still need to add PDF here**
 
 #### Losing Ground: Erosion is Threatening Long Island's Historic Communities
 - **Date**: April 2024
 - **Course**: Sustainability and Preservation
 - **Professor**: Erica Avrami
 - **Description**: *Add description here.*
-- **Materials**: *Add op-ed here.*
+
+**Note to self: Still need to add PDF here**
