@@ -60,11 +60,13 @@ The Speculative Restoration Design Tool is designed to speculate and reconstruct
 **Note to self: Still need to add video and pdf here**
 
 #### Visualizing Confirmed Hate Crime Incidents in NYC During the Covid-19 Pandemic
+This analysis maps NYPD confirmed hate crimes and examines the social dynamics and biases that may influence this data.
+
 - **Date**: August 2023
 - **Course**: Methods as Practice, Practice as Methods
 - **Professor**: Prof. Violet Whitney, Prof. William Martin
 
--> Note to self: Add Description Here
+During the Covid-19 pandemic, the United States witnessed a distressing rise in hate crimes, intensified by inflammatory rhetoric and high-profile incidents of police brutality. This project focuses on visualizing the pattern of confirmed hate crimes in New York City from 2019 to 2023. Using data from the NYPD, the analysis reveals geographical distribution and victim demographics of these crimes. Key findings include a 15,000% spike in anti-Asian hate crimes from 2019 to 2021, attributed largely to Covid-19 related racism. Anti-Semitic incidents were most prevalent, accounting for about 43.7% of all cases, while anti-Black hate crimes showed a notable concentration in Staten Island. The project discusses the likely underreporting of incidents due to victims' reluctance to involve law enforcement, particularly among marginalized communities with historical mistrust of police.
 
 [View Project](https://gsapp-cdp.github.io/colloquium-1-2023/work/elizabeth-singer/my_maps.html)
 
