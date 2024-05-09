@@ -60,6 +60,7 @@ The project is a user-initiated, design-for-one approach that contrasts with one
 - **Course**: Methods as Practice, Practice as Methods
 - **Professor**: Prof. Violet Whitney, Prof. William Martin
 - **Description**: *Add description here.*
+
 [View Project](https://gsapp-cdp.github.io/colloquium-1-2023/work/elizabeth-singer/my_maps.html)
 
 #### Spatial UX
@@ -68,6 +69,7 @@ The project is a user-initiated, design-for-one approach that contrasts with one
 - **Professor**: Prof. Violet Whitney
 - **Partners**: Di Zhu, Chuxi Xiong, Pavitra Nayak
 - **Description**: *Add description here.*
+
 [View Project](https://www.youtube.com/watch?v=P_qIeYkLioI&feature=youtu.be&themeRefresh=1)
 
 #### Pluralism at the Table: Negotiating Religious and Dietary Practice and Identity in a Pluralistic Jewish Food Co-op
