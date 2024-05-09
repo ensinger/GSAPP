@@ -13,7 +13,7 @@ Addressing the needs of 3 individuals with disabilities through thoughtful, co-d
 - **Professor**: Prof. Seth Thompson
 - **Advisor**: Prof. William Martin
 
-This project originated with a goal to retrofit my grandmother's home to better accommodate her changing needs as she aged and faced new disabilities. The aim was to move beyond universal design principles, focusing on personalized solutions. This collaboration with my grandmother allowed us to develop tailored adaptations for her specific disabilities, directly addressing her unique circumstances and environment.
+Computational Solutions through Co-Design originated with a goal to retrofit my grandmother's home to better accommodate her changing needs as she aged and faced new disabilities. The aim was to move beyond universal design principles, focusing on personalized solutions. This collaboration with my grandmother allowed us to develop tailored adaptations for her specific disabilities, directly addressing her unique circumstances and environment.
 
 Following my grandmother's passing, the project evolved while maintaining its objectives. It pivoted towards using computational tools to empower 3 other individuals in my family with disabilities through co-design. This shift involved conducting three case studies, each focusing on creating solutions for individuals with distinct disabilities, leveraging machine learning and handheld computational technologies to enhance personal independence.
 
