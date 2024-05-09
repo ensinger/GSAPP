@@ -7,10 +7,10 @@
 ### Projects Overview
 
 #### Computational Solutions through Co-Design
+Addressing the needs of 3 individuals with disabilities through thoughtful, co-designed computational solutions
 - **Date**: April 2024
 - **Course**: Design in Action
 - **Advisors**: Seth Thompson, William Martin
-- **Description**: Addressing the needs of 3 individuals with disabilities through thoughtful, co-designed computational solutions
 
 This project originated with a goal to retrofit my grandmother's home to better accommodate her changing needs as she aged and faced new disabilities. The aim was to move beyond universal design principles, focusing on personalized solutions. This collaboration with my grandmother allowed us to develop tailored adaptations for her specific disabilities, directly addressing her unique circumstances and environment.
 
