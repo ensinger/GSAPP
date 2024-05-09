@@ -74,7 +74,7 @@ The project showcases a user-initiated, design-for-one approach that contrasts w
 - **Professor**: Ateya Khorakiwala
 - **Materials**: *Add PDF here.*
 
-#### Long Island is sinking
+#### Losing Ground: Erosion is Threatening Long Island's Historic Communities
 - **Date**: April 2024
 - **Course**: Sustainability and Preservation
 - **Professor**: Erica Avrami
