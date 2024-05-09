@@ -21,7 +21,7 @@ Computational Solutions through Co-Design originated with a goal to retrofit my 
 
 The project is a user-initiated, design-for-one approach that contrasts with one-size-fits-all solutions. It emphasizes the importance of personalization and the innovative potential within the disability community, serving as a continuous testbed for new ideas. By embedding personalized technology into everyday environments, the project enhances independence.
 
-**Note to self: Still need to add Materials here**
+**Note to self: Still need to add videos here**
 
 #### Gene and Jude's Kitchen
 
