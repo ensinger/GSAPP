@@ -68,7 +68,7 @@ The project showcases a user-initiated, design-for-one approach that contrasts w
 - **Description**: *Add description here.*
 - **Materials**: [YouTube Link](https://www.youtube.com/watch?v=P_qIeYkLioI&feature=youtu.be&themeRefresh=1)
 
-#### The Beit Ephraim Food Co-Op ("The Bayit")
+#### Pluralism at the Table: Dietary Practice and Identity Negotiation in a Jewish Food Co-op
 - **Date**: April 2024
 - **Course**: Feasting + Fasting
 - **Professor**: Ateya Khorakiwala
