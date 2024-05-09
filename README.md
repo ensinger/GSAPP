@@ -1,10 +1,6 @@
-# Elizabeth Singer's Portfolio
+# Elizabeth Singer Portfolio
 ## Master of Science in Computational Design Practices
-### Columbia University's Graduate School of Architecture, Preservation and Planning
-
----
-
-### Projects Overview
+### Columbia University Graduate School of Architecture, Preservation and Planning
 
 #### Computational Solutions through Co-Design
 Addressing the Needs of 3 Individuals With Disabilities Through Thoughtful, Co-Designed Computational Solutions
