@@ -101,6 +101,10 @@ Negotiating Religious and Dietary Practice and Identity and Kashrut Dietary Laws
 - **Course**: Feasting and Fasting
 - **Professor**: Prof. Ateya Khorakiwala
 
+<img src="https://github.com/ensinger/GSAPP/blob/main/IMG_7463.jpg" alt="bayit1" width="30%"> <img src="https://github.com/ensinger/GSAPP/blob/main/IMG_0317.jpg" alt="bayit2" width="30%"> <img src="https://github.com/ensinger/GSAPP/blob/main/IMG_7370.jpg" alt="bayit3" width="30%"> <img src="https://github.com/ensinger/GSAPP/blob/main/IMG_7793.jpg" alt="bayit4" width="30%">
+
+
+
 Culinary Coexistence is about the dynamics of communal living and religious practice at The Beit Ephraim Food Co-op (The Bayit), a pluralistic Jewish food co-op at Columbia University. It explores how residents with varying levels of religious observance negotiate their personal religious commitments within a shared living space. Central to this negotiation is the co-op's maintenance of a kosher kitchen, which becomes both a catalyst for and a source of contention in these negotiations. Through house member interviews, alumni interviews, participant observations, and house meeting analyses, the project examines the residents' diverse approaches to kashrut (Jewish dietary laws), Shabbat observance, and broader Jewish identity and Israeli discourse. The project aims to understand how such communal settings reflect broader societal interactions within the Jewish community, focusing on how identity and religious practice contribute to the production of meaning in the face of conflict and negotiation. This project is also about the role of pluralism and inclusivity in communal living and the balance between accommodation and adherence to religious norms.
 
 -> Note to self: Add PDF Here
