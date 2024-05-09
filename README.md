@@ -44,6 +44,9 @@
 
 #### Visualizing Confirmed Hate Crime Incidents in NYC During the Covid-19 Pandemic
 - **Date**: August 2023
+- **Course**: Methods as Practice, Practice as Methods
+- **Professor**: Violet Whitney, William Martin
+- **Description**: *Add description here.*
 - **Link**: [View Project](https://gsapp-cdp.github.io/colloquium-1-2023/work/elizabeth-singer/my_maps.html)
 
 #### Spatial UX
