@@ -10,7 +10,8 @@
 Addressing the needs of 3 individuals with disabilities through thoughtful, co-designed computational solutions
 - **Date**: April 2024
 - **Course**: Design in Action
-- **Advisors**: Seth Thompson, William Martin
+- **Professor**: Prof. Seth Thompson
+- **Advisor**: Prof. William Martin
 
 This project originated with a goal to retrofit my grandmother's home to better accommodate her changing needs as she aged and faced new disabilities. The aim was to move beyond universal design principles, focusing on personalized solutions. This collaboration with my grandmother allowed us to develop tailored adaptations for her specific disabilities, directly addressing her unique circumstances and environment.
 
@@ -26,8 +27,8 @@ The project showcases a user-initiated, design-for-one approach that contrasts w
 
 #### Gene and Jude's Kitchen
 - **Date**: February 2024
-- **Course**: Feasting + Fasting
-- **Professor**: Ateya Khorakiwala
+- **Course**: Feasting and Fasting
+- **Professor**: Prof. Ateya Khorakiwala
 - **Description**: *Add description here.*
   
 **Note to self: Still need to add image and description here**
@@ -35,7 +36,7 @@ The project showcases a user-initiated, design-for-one approach that contrasts w
 #### Speculative Restoration Design Tool
 - **Date**: December 2023
 - **Course**: Design Intelligence
-- **Professor**: Danil Nagy
+- **Professor**: Prof. Danil Nagy
 - **Partner**: Jon Marcos
 - **Description**: A speculative tool aimed at the restoration of architectural elements using advanced computational techniques.
 - **Link**: [View Project](https://medium.com/design-intelligence-course/speculative-restoration-design-tool-6b7e01fc3d2e)
@@ -43,7 +44,7 @@ The project showcases a user-initiated, design-for-one approach that contrasts w
 #### Design Care
 - **Date**: December 2023
 - **Course**: Explore, Explain, Propose
-- **Professors**: Laura Kurgan, Snoweria Zhang
+- **Professors**: Prof. Laura Kurgan, Prof. Snoweria Zhang
 - **Description**: *Add description here.*
 
 **Note to self: Still need to add video and pdf here**
@@ -51,7 +52,7 @@ The project showcases a user-initiated, design-for-one approach that contrasts w
 #### #Disabilityhack #disabilitytiktok #Disabilitylifehack #accessibility
 - **Date**: October 2023
 - **Course**: Explore, Explain, Propose
-- **Professors**: Laura Kurgan, Snoweria Zhang
+- **Professors**: Prof. Laura Kurgan, Prof. Snoweria Zhang
 - **Description**: *Add description here.*
 
 **Note to self: Still need to add video and pdf here**
@@ -59,29 +60,29 @@ The project showcases a user-initiated, design-for-one approach that contrasts w
 #### Visualizing Confirmed Hate Crime Incidents in NYC During the Covid-19 Pandemic
 - **Date**: August 2023
 - **Course**: Methods as Practice, Practice as Methods
-- **Professor**: Violet Whitney, William Martin
+- **Professor**: Prof. Violet Whitney, Prof. William Martin
 - **Description**: *Add description here.*
 - **Link**: [View Project](https://gsapp-cdp.github.io/colloquium-1-2023/work/elizabeth-singer/my_maps.html)
 
 #### Spatial UX
 - **Date**: December 2023
 - **Course**: Spatial UX
-- **Professor**: Violet Whitney
+- **Professor**: Prof. Violet Whitney
 - **Partners**: Di Zhu, Chuxi Xiong, Pavitra Nayak
 - **Description**: *Add description here.*
 - **Link**: [View Project](https://www.youtube.com/watch?v=P_qIeYkLioI&feature=youtu.be&themeRefresh=1)
 
 #### Pluralism at the Table: Dietary Practice and Identity Negotiation in a Jewish Food Co-op
 - **Date**: April 2024
-- **Course**: Feasting + Fasting
-- **Professor**: Ateya Khorakiwala
+- **Course**: Feasting and Fasting
+- **Professor**: Prof. Ateya Khorakiwala
 
 **Note to self: Still need to add PDF here**
 
 #### Losing Ground: Erosion is Threatening Long Island's Historic Communities
 - **Date**: April 2024
 - **Course**: Sustainability and Preservation
-- **Professor**: Erica Avrami
+- **Professor**: Prof. Erica Avrami
 - **Description**: *Add description here.*
 
 **Note to self: Still need to add PDF here**
