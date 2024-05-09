@@ -76,13 +76,13 @@ When my Bubbe and Pa picked me up from the airport in Chicago on my Bubbe’s bi
 
 [View Project](https://www.youtube.com/watch?v=P_qIeYkLioI&feature=youtu.be&themeRefresh=1)
 
-#### Pluralism at the Table: Negotiating Religious and Dietary Practice and Identity in a Pluralistic Jewish Food Co-op
-Kashrut Dietary Laws as Catalysts for Dialogue in a Pluralistic Jewish Food Co-op
+#### Culinary Coexistence: Negotiating Religious Practice in a Pluralistic Jewish Co-op
+Negotiating Religious and Dietary Practice and Identity and Kashrut Dietary Laws as Catalysts for Dialogue in a Pluralistic Jewish Food Co-op
 - **Date**: April 2024
 - **Course**: Feasting and Fasting
 - **Professor**: Prof. Ateya Khorakiwala
 
-Pluralism at the Table is about the dynamics of communal living and religious practice at The Beit Ephraim Food Co-op (The Bayit), a pluralistic Jewish food co-op at Columbia University. It explores how residents with varying levels of religious observance negotiate their personal religious commitments within a shared living space. Central to this negotiation is the co-op's maintenance of a kosher kitchen, which becomes both a catalyst for and a source of contention in these negotiations. Through house member interviews, alumni interviews, participant observations, and house meeting analyses, the project examines the residents' diverse approaches to kashrut (Jewish dietary laws), Shabbat observance, and broader Jewish identity and Israeli discourse. The project aims to understand how such communal settings reflect broader societal interactions within the Jewish community, focusing on how identity and religious practice contribute to the production of meaning in the face of conflict and negotiation. This project is also about the role of pluralism and inclusivity in communal living and the balance between accommodation and adherence to religious norms.
+Culinary Coexistence is about the dynamics of communal living and religious practice at The Beit Ephraim Food Co-op (The Bayit), a pluralistic Jewish food co-op at Columbia University. It explores how residents with varying levels of religious observance negotiate their personal religious commitments within a shared living space. Central to this negotiation is the co-op's maintenance of a kosher kitchen, which becomes both a catalyst for and a source of contention in these negotiations. Through house member interviews, alumni interviews, participant observations, and house meeting analyses, the project examines the residents' diverse approaches to kashrut (Jewish dietary laws), Shabbat observance, and broader Jewish identity and Israeli discourse. The project aims to understand how such communal settings reflect broader societal interactions within the Jewish community, focusing on how identity and religious practice contribute to the production of meaning in the face of conflict and negotiation. This project is also about the role of pluralism and inclusivity in communal living and the balance between accommodation and adherence to religious norms.
 
 **Note to self: Still need to add PDF here**
 
