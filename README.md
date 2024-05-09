@@ -54,7 +54,8 @@ The Speculative Restoration Design Tool is designed to speculate and reconstruct
 - **Professors**: Prof. Laura Kurgan, Prof. Snoweria Zhang
 - **Description**: *Add description here.*
 
-[embed] https://github.com/ensinger/GSAPP/blob/main/Elizabeth_Singer_Difference_And_Design_Final_PDF.pdf [/embed]
+[View Project](https://github.com/ensinger/GSAPP/blob/main/Elizabeth_Singer_Difference_And_Design_Final_PDF.pdf)
+
 **Note to self: Still need to add video and pdf here**
 
 ### 6 Visualizing Confirmed Hate Crime Incidents in NYC During the Covid-19 Pandemic
