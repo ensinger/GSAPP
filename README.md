@@ -69,7 +69,7 @@ During the Covid-19 pandemic, the United States witnessed a distressing rise in 
 [View Project](https://gsapp-cdp.github.io/colloquium-1-2023/work/elizabeth-singer/my_maps.html)
 
 
-### 7 Spatial UX
+### 7 Spatial UX, Motion Analysis, and Design
 
 Dynamic User-centric Control, Movement, Behavior, and Activities
 
