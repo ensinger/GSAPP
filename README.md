@@ -1,8 +1,7 @@
 # Elizabeth Singer Portfolio
-## Master of Science in Computational Design Practices
-### Columbia University Graduate School of Architecture, Preservation and Planning
+## Master of Science in Computational Design Practices @ Columbia University Graduate School of Architecture, Preservation and Planning 
 
-#### 1 Computational Solutions through Co-Design
+### 1 Computational Solutions through Co-Design
 Addressing the Needs of 3 Individuals With Disabilities Through Thoughtful, Co-Designed Computational Solutions
 - **Date**: April 2024
 - **Course**: Design in Action
@@ -19,7 +18,7 @@ The project is a user-initiated, design-for-one approach that contrasts with one
 
 **Note to self: Still need to add videos here**
 
-#### 2 Gene and Jude's Kitchen
+### 2 Gene and Jude's Kitchen
 
 ![Gene & Jude's Kitchen](https://github.com/ensinger/GSAPP/blob/c0479f898230bb2c2a54b27cbaecc4e4586b7783/gene%20and%20judes%20kitchen.jpg?raw=true "Gene & Jude's Chicago-style 'depression dog'")
 
@@ -29,7 +28,7 @@ The project is a user-initiated, design-for-one approach that contrasts with one
 
 When my Bubbe and Pa picked me up from the airport in Chicago on my Bubbe’s birthday, they took me to Gene & Jude's. I am typically a vegetarian, but I eat these. Eating Chicago-style hot dogs, one of my all-time favorite foods, makes me feel more connected to my dad and his side of my family. Gene & Jude's specializes in an old-style Chicago dog, known as a depression dog, and has been around since 1946. Unlike the "dragged through the garden" Chicago dog, this version doesn't have tomatoes, pickles, or poppy-seed buns. Waiting in line for about 20 minutes, you can see the whole kitchen and every step: potatoes hand-cranked into fries, then dropped into oil. (The fries are my Bubbe’s favorite part). The dogs come out of the pot, topped with brown relish instead of green, mustard, sport peppers (my favorite part), and white onions. The fries are poured over the hot dogs, then wrapped in paper, ready to be devoured in the car. There are no seats, and Gene & Jude's adheres to the Chicago tradition of no ketchup on site.
 
-#### 3 Speculative Restoration Design Tool
+### 3 Speculative Restoration Design Tool
 - **Date**: December 2023
 - **Course**: Design Intelligence
 - **Professor**: Prof. Danil Nagy
@@ -39,7 +38,7 @@ The Speculative Restoration Design Tool is designed to speculate and reconstruct
 
 [View Project](https://medium.com/design-intelligence-course/speculative-restoration-design-tool-6b7e01fc3d2e)
 
-#### 4 Design Care
+### 4 Design Care
 - **Date**: December 2023
 - **Course**: Explore, Explain, Propose
 - **Professors**: Prof. Laura Kurgan, Prof. Snoweria Zhang
@@ -47,7 +46,7 @@ The Speculative Restoration Design Tool is designed to speculate and reconstruct
 
 **Note to self: Still need to add video and pdf here**
 
-#### 5 #Disabilityhack #disabilitytiktok #Disabilitylifehack #accessibility
+### 5 #Disabilityhack #disabilitytiktok #Disabilitylifehack #accessibility
 - **Date**: October 2023
 - **Course**: Explore, Explain, Propose
 - **Professors**: Prof. Laura Kurgan, Prof. Snoweria Zhang
@@ -55,7 +54,7 @@ The Speculative Restoration Design Tool is designed to speculate and reconstruct
 
 **Note to self: Still need to add video and pdf here**
 
-#### 6 Visualizing Confirmed Hate Crime Incidents in NYC During the Covid-19 Pandemic
+### 6 Visualizing Confirmed Hate Crime Incidents in NYC During the Covid-19 Pandemic
 
 Mapping NYPD Confirmed Hate Crimes and Examining the Social Dynamics and Biases That May Influence This Data
 
@@ -70,7 +69,7 @@ During the Covid-19 pandemic, the United States witnessed a distressing rise in 
 [View Project](https://gsapp-cdp.github.io/colloquium-1-2023/work/elizabeth-singer/my_maps.html)
 
 
-#### 7 Spatial UX
+### 7 Spatial UX
 
 Dynamic User-centric Control, Movement, Behavior, and Activities
 
@@ -83,7 +82,7 @@ The goal of Spatial UX was giving users the ability to shape their spaces accord
 
 [View Project](https://www.youtube.com/watch?v=P_qIeYkLioI&feature=youtu.be&themeRefresh=1)
 
-#### 8 Culinary Coexistence: Negotiating Religious Practice in a Pluralistic Jewish Co-op
+### 8 Culinary Coexistence: Negotiating Religious Practice in a Pluralistic Jewish Co-op
 
 Negotiating Religious and Dietary Practice and Identity and Kashrut Dietary Laws as Catalysts for Dialogue in a Pluralistic Jewish Food Co-op
 
@@ -95,7 +94,7 @@ Culinary Coexistence is about the dynamics of communal living and religious prac
 
 -> Note to self: Add PDF Here
 
-#### 9 Losing Ground: Erosion is Threatening Long Island's Historic Communities
+### 9 Losing Ground: Erosion is Threatening Long Island's Historic Communities
 
 Addressing the Persistent Issue of Shoreline Degradation in Long Island
 
