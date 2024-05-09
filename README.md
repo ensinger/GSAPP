@@ -63,16 +63,19 @@ The Speculative Restoration Design Tool is designed to speculate and reconstruct
 - **Date**: August 2023
 - **Course**: Methods as Practice, Practice as Methods
 - **Professor**: Prof. Violet Whitney, Prof. William Martin
-- **Description**: *Add description here.*
+
+-> Note to self: Add Description Here
 
 [View Project](https://gsapp-cdp.github.io/colloquium-1-2023/work/elizabeth-singer/my_maps.html)
 
 #### Spatial UX
+-> Add PDF Here
 - **Date**: December 2023
 - **Course**: Spatial UX
 - **Professor**: Prof. Violet Whitney
 - **Partners**: Di Zhu, Chuxi Xiong, Pavitra Nayak
-- **Description**: *Add description here.*
+
+-> Note to self: Add Description Here
 
 [View Project](https://www.youtube.com/watch?v=P_qIeYkLioI&feature=youtu.be&themeRefresh=1)
 
@@ -84,7 +87,7 @@ Negotiating Religious and Dietary Practice and Identity and Kashrut Dietary Laws
 
 Culinary Coexistence is about the dynamics of communal living and religious practice at The Beit Ephraim Food Co-op (The Bayit), a pluralistic Jewish food co-op at Columbia University. It explores how residents with varying levels of religious observance negotiate their personal religious commitments within a shared living space. Central to this negotiation is the co-op's maintenance of a kosher kitchen, which becomes both a catalyst for and a source of contention in these negotiations. Through house member interviews, alumni interviews, participant observations, and house meeting analyses, the project examines the residents' diverse approaches to kashrut (Jewish dietary laws), Shabbat observance, and broader Jewish identity and Israeli discourse. The project aims to understand how such communal settings reflect broader societal interactions within the Jewish community, focusing on how identity and religious practice contribute to the production of meaning in the face of conflict and negotiation. This project is also about the role of pluralism and inclusivity in communal living and the balance between accommodation and adherence to religious norms.
 
-**Note to self: Still need to add PDF here**
+-> Note to self: Add PDF Here
 
 #### Losing Ground: Erosion is Threatening Long Island's Historic Communities
 Addressing the Persistent Issue of Shoreline Degradation in Long Island
@@ -94,4 +97,4 @@ Addressing the Persistent Issue of Shoreline Degradation in Long Island
 
 Losing Ground is about community decision-making, environmental challenges, and infrastructure projects on Long Island. Specifically, this project focuses on cases involving coastal erosion and management which exemplify different approaches to addressing the persistent issue of shoreline degradation and the consequences of various management strategies for historic sites that are eventual inevitable loss due to climate change. Port Jefferson’s Coastal Wall was initiated as part of the local village's ongoing efforts to prevent their historic country club from succumbing to coastal erosion. The construction of a large $10 million double wall system did not withstand its first winter, highlighting the challenges and financial strains of maintaining hard infrastructure against natural forces. The unintended environmental impacts of a sea wall at Jones Beach led to significant erosion on an adjacent beach. These cases show the necessity for comprehensive environmental impact assessments and considering the interconnectedness of coastal ecosystems. The adoption of living shorelines in Long Island is a sustainable approach to shoreline management through the use of living shorelines. This method prevents erosion and preserves the natural landscape and biodiversity, an example of environmentally-conscious decision-making. Long Island inspires questions about the management of coastal environments, demonstrating the need for sustainable planning and more ecologically and economically sustainable practices like living shorelines and forward-thinking strategies in coastal management.
 
-**Note to self: Still need to add PDF here**
+-> Note to self: Add PDF Here
