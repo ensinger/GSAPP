@@ -60,7 +60,7 @@ The Speculative Restoration Design Tool is designed to speculate and reconstruct
 **Note to self: Still need to add video and pdf here**
 
 #### Visualizing Confirmed Hate Crime Incidents in NYC During the Covid-19 Pandemic
-This analysis maps NYPD confirmed hate crimes and examines the social dynamics and biases that may influence this data.
+Mapping NYPD Confirmed Hate Crimes and Examining the Social Dynamics and Biases That May Influence This Data
 
 - **Date**: August 2023
 - **Course**: Methods as Practice, Practice as Methods
