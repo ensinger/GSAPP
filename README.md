@@ -73,6 +73,7 @@ The project showcases a user-initiated, design-for-one approach that contrasts w
 - **Link**: [View Project](https://www.youtube.com/watch?v=P_qIeYkLioI&feature=youtu.be&themeRefresh=1)
 
 #### Pluralism at the Table: Dietary Practice and Identity Negotiation in a Jewish Food Co-op
+Kashrut Dietary Laws as Catalysts for Dialogue in a Pluralistic Jewish Food Co-op
 - **Date**: April 2024
 - **Course**: Feasting and Fasting
 - **Professor**: Prof. Ateya Khorakiwala
