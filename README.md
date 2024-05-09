@@ -30,7 +30,7 @@ The project showcases a user-initiated, design-for-one approach that contrasts w
 - **Professor**: Danil Nagy
 - **Partner**: Jon Marcos
 - **Description**: A speculative tool aimed at the restoration of architectural elements using advanced computational techniques.
-- **Materials**: [View Project](https://medium.com/design-intelligence-course/speculative-restoration-design-tool-6b7e01fc3d2e)
+- **Link**: [View Project](https://medium.com/design-intelligence-course/speculative-restoration-design-tool-6b7e01fc3d2e)
 
 #### #Disabilityhack #disabilitytiktok #Disabilitylifehack #accessibility
 - **Date**: October 2023
@@ -69,7 +69,7 @@ The project showcases a user-initiated, design-for-one approach that contrasts w
 - **Professor**: Violet Whitney
 - **Group Members**: Di Zhu, Chuxi Xiong, Pavitra Nayak
 - **Description**: *Add description here.*
-- **Materials**: [View Project](https://www.youtube.com/watch?v=P_qIeYkLioI&feature=youtu.be&themeRefresh=1)
+- **Link**: [View Project](https://www.youtube.com/watch?v=P_qIeYkLioI&feature=youtu.be&themeRefresh=1)
 
 #### Pluralism at the Table: Dietary Practice and Identity Negotiation in a Jewish Food Co-op
 - **Date**: April 2024
