@@ -7,7 +7,7 @@
 ### Projects Overview
 
 #### Computational Solutions through Co-Design
-Addressing the needs of 3 individuals with disabilities through thoughtful, co-designed computational solutions
+Addressing the Needs of 3 Individuals With Disabilities Through Thoughtful, Co-Designed Computational Solutions
 - **Date**: April 2024
 - **Course**: Design in Action
 - **Professor**: Prof. Seth Thompson
