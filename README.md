@@ -51,7 +51,7 @@ An Approach to Conceive Design Solutions in the Context of Disability and Aging
 - **Date**: December 2023
 - **Course**: Explore, Explain, Propose
 - **Professors**: Prof. Laura Kurgan, Prof. Snoweria Zhang
-
+  <img src="https://github.com/ensinger/GSAPP/blob/main/DC1.jpg" alt="DC1" width="30%"> <img src="https://github.com/ensinger/GSAPP/blob/main/DC2.jpg" alt="DC2" width="30%"> 
 Design Care is about compassionate, empathetic, and user-centered design for one, user initiated practice, emphasizing the independence and ideas of individuals with disabilities through personalized solutions. It stands at the intersection of Homecare, Healthcare, Disability Care, and Design Thinking to craft solutions that are resonant with the individuals' lived experiences, aspirations, and the daily realities of aging and disability. 
 
 [View Project Video](https://youtu.be/ItxWQ-ywdc8)
