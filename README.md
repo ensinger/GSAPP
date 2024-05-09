@@ -41,7 +41,8 @@ When my Bubbe and Pa picked me up from the airport in Chicago on my Bubbe’s bi
 - **Professor**: Prof. Danil Nagy
 - **Partner**: Jon Marcos
 - **Description**: A speculative tool aimed at the restoration of architectural elements using advanced computational techniques.
-- **Link**: [View Project](https://medium.com/design-intelligence-course/speculative-restoration-design-tool-6b7e01fc3d2e)
+
+[View Project](https://medium.com/design-intelligence-course/speculative-restoration-design-tool-6b7e01fc3d2e)
 
 #### Design Care
 - **Date**: December 2023
