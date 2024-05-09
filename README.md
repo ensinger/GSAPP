@@ -32,8 +32,6 @@ The project is a user-initiated, design-for-one approach that contrasts with one
 - **Professor**: Prof. Ateya Khorakiwala
 
 When my Bubbe and Pa picked me up from the airport in Chicago on my Bubbe’s birthday, they took me to Gene & Jude's. I am typically a vegetarian, but I eat these. Eating Chicago-style hot dogs, one of my all-time favorite foods, makes me feel more connected to my dad and his side of my family. Gene & Jude's specializes in an old-style Chicago dog, known as a depression dog, and has been around since 1946. Unlike the "dragged through the garden" Chicago dog, this version doesn't have tomatoes, pickles, or poppy-seed buns. Waiting in line for about 20 minutes, you can see the whole kitchen and every step: potatoes hand-cranked into fries, then dropped into oil. (The fries are my Bubbe’s favorite part). The dogs come out of the pot, topped with brown relish instead of green, mustard, sport peppers (my favorite part), and white onions. The fries are poured over the hot dogs, then wrapped in paper, ready to be devoured in the car. There are no seats, and Gene & Jude's adheres to the Chicago tradition of no ketchup on site.
-  
-**Note to self: Still need to add image and description here**
 
 #### Speculative Restoration Design Tool
 - **Date**: December 2023
