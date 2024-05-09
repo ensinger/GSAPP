@@ -38,7 +38,8 @@ When my Bubbe and Pa picked me up from the airport in Chicago on my Bubbe’s bi
 - **Course**: Design Intelligence
 - **Professor**: Prof. Danil Nagy
 - **Partner**: Jon Marcos
-- **Description**: A speculative tool aimed at the restoration of architectural elements using advanced computational techniques.
+
+The Speculative Restoration Design Tool is designed to speculate and reconstruct architectural facades using foundational elements such as window jambs, sills, and heads. Focused on Art Nouveau and Beaux-Arts styles, the tool leverages these elements to restore and reimagine buildings in Detroit. The project began with the aim to visualize the possible original facades of buildings in Detroit by using architectural remnants. This not only helps in restoration but also serves as a creative tool for world-building in CGI rendering. Using tools like Rhino and Grasshopper, site boundaries are identified and rounded off for further processing. Base geometries are created from building footprints and user-defined parameters like height and panel sizes. Facades are subdivided based on user inputs, using Python to allow variations like alternating window distances. UV coordinates of surfaces are unified using Rhino Common to ensure consistent window orientation. Users can toggle between uniform and alternating subdivisions to control the facade's appearance dynamically. The tool includes a Grasshopper Geometry Preview for real-time visualization and a user-friendly UI plugin for easy adjustments. While primarily used for architectural restoration, the tool's ability to generate diverse building designs rapidly makes it suitable for CGI and other forms of digital modeling.
 
 [View Project](https://medium.com/design-intelligence-course/speculative-restoration-design-tool-6b7e01fc3d2e)
 
