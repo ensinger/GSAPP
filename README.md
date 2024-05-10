@@ -62,10 +62,14 @@ Design Care is about compassionate, empathetic, and user-centered design for one
 [View Project PDF](https://github.com/ensinger/GSAPP/blob/main/Elizabeth_Singer_Difference_And_Design_Final_PDF.pdf)
 
 ### 5 #Disabilityhack #disabilitytiktok #Disabilitylifehack #accessibility
+
+The Best Designs For Disabled Individuals Come Directly From Their Own Experiences And Innovations
+
 - **Date**: October 2023
 - **Course**: Explore, Explain, Propose
 - **Professors**: Prof. Laura Kurgan, Prof. Snoweria Zhang
-- **Description**: *Add description here.*
+
+
   
 [View Project Pdf](https://github.com/ensinger/GSAPP/blob/main/Singer_Elizabeth_es4160_Counterstory_Midterm_PDF.pdf)
 
