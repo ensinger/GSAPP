@@ -8,6 +8,8 @@ Addressing the Needs of 3 Individuals With Disabilities Through Thoughtful, Co-D
 - **Professor**: Prof. Seth Thompson
 - **Advisor**: Prof. William Martin
 
+  <img src="https://github.com/ensinger/GSAPP/blob/main/CD1.jpg" alt="CD 1" width="40%"> <img src="https://github.com/ensinger/GSAPP/blob/main/CD2.jpg" alt="CD 2" width="40%">   <img src="https://github.com/ensinger/GSAPP/blob/main/CD3.jpg" alt="CD 3" width="40%"> 
+
 Computational Solutions through Co-Design originated with a goal to retrofit my grandmother's home to better accommodate her changing needs as she aged and faced new disabilities. The aim was to move beyond universal design principles, focusing on personalized solutions. This collaboration with my grandmother allowed us to develop tailored adaptations for her specific disabilities, directly addressing her unique circumstances and environment. Following my grandmother's passing, the project evolved while maintaining its objectives. It pivoted towards using computational tools to empower 3 other individuals in my family with disabilities through co-design. This shift involved conducting three case studies, each focusing on creating solutions for individuals with distinct disabilities, leveraging machine learning and handheld computational technologies to enhance personal independence.
 
 1. Traffic Light Detection for Color Blindness: This study developed a system for a person with red-green color blindness, helping them navigate traffic signals via a hardware-software integration that uses AI to detect traffic lights and provide audio cues.
