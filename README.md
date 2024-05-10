@@ -69,7 +69,7 @@ Design Care is about compassionate, empathetic, and user-centered design for one
   
 [View Project Pdf](https://github.com/ensinger/GSAPP/blob/main/Singer_Elizabeth_es4160_Counterstory_Midterm_PDF.pdf)
 
-**Note to self: Still need to add video here**
+[View Project Video](https://youtu.be/IvIB6dXUoPA?feature=shared)
 
 ### 6 Visualizing Confirmed Hate Crime Incidents in NYC During the Covid-19 Pandemic
 
