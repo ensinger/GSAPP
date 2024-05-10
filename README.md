@@ -69,7 +69,7 @@ The Best Designs For Disabled Individuals Come Directly From Their Own Experienc
 - **Course**: Explore, Explain, Propose
 - **Professors**: Prof. Laura Kurgan, Prof. Snoweria Zhang
 
-
+ While dominant narratives tell stories of isolation in the disability community, the disability community has been building rich communities online and sharing the wisdom of how they navigate spaces that were not built to include them. While designers and companies deliberate on whether and how to support the disability community, the disability community has been actively engaging in innovative and thoughtful design, and using social media to publicly showcase their problem-solving capabilities. Members of the disability community are pioneers in creating creative solutions to navigate environments, systems, and products that were not initially designed with their specific needs in mind. It is clear who are the experts in “designing for disabilities”: those with disabilities. #disabilitytiktok is one of many growing archives that showcase the world of alternative uses of unexpected objects and adaptive objects created by disabled individuals to traverse their environments, homes, and lifestyles.
   
 [View Project Pdf](https://github.com/ensinger/GSAPP/blob/main/Singer_Elizabeth_es4160_Counterstory_Midterm_PDF.pdf)
 
