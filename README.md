@@ -20,11 +20,7 @@ The project is a user-initiated, design-for-one approach that contrasts with one
 
 [View Project](https://www.youtube.com/watch?v=YuykPxTinKM)
 
-StopLight Video
-<video width="320" height="240" controls>
-  <source src="https://github.com/ensinger/GSAPP/blob/main/Stoplight.mp4" type="video/mp4">
-</video>
-
+[StopLight Video](https://github.com/ensinger/GSAPP/blob/main/Stoplight.mp4)
 [Money Counting Video](https://github.com/ensinger/GSAPP/blob/main/Money27.mp4)
 [Overlay Video](https://github.com/ensinger/GSAPP/blob/main/Overlay.mp4)
 
