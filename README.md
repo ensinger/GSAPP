@@ -19,7 +19,13 @@ Computational Solutions through Co-Design originated with a goal to retrofit my 
 The project is a user-initiated, design-for-one approach that contrasts with one-size-fits-all solutions. It emphasizes the importance of personalization and the innovative potential within the disability community, serving as a continuous testbed for new ideas. By embedding personalized technology into everyday environments, the project enhances independence.
 
 [View Project](https://www.youtube.com/watch?v=YuykPxTinKM)
-[Stop Light Video](https://github.com/ensinger/GSAPP/blob/main/Stoplight.mp4)
+
+StopLight Video
+<video width="320" height="240" controls>
+  <source src="https://github.com/ensinger/GSAPP/blob/main/Stoplight.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 [Money Counting Video](https://github.com/ensinger/GSAPP/blob/main/Money27.mp4)
 [Overlay Video](https://github.com/ensinger/GSAPP/blob/main/Overlay.mp4)
 
